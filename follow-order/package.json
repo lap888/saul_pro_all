@@ -1,0 +1,24 @@
+{
+  "name": "follow-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pm2 start index.js --log-date-format='YYYY-MM-DD HH:mm Z'",
+    "apirestart": "pm2 restart api.js --log-date-format='YYYY-MM-DD HH:mm Z'",
+    "restart": "pm2 restart index.js --log-date-format='YYYY-MM-DD HH:mm Z'",
+    "stop": "pm2 stop index.js --log-date-format='YYYY-MM-DD HH:mm Z'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@binance/connector": "^1.5.0",
+    "express": "^4.17.1",
+    "https-proxy-agent": "^5.0.0",
+    "node-localstorage": "^2.2.1",
+    "telegram-bot-api": "^2.0.1",
+    "tunnel": "^0.0.6",
+    "url": "^0.11.0"
+  }
+}

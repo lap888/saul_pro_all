@@ -1,0 +1,18 @@
+{
+    "biz": "perpetual",
+    "data": [
+        [
+            1677218100000,
+            "1643.35",
+            "1645.23",
+            "1643.3",
+            "1644.62",
+            "1888",
+            "310476.456"
+        ]
+    ],
+    "granularity": "5min",
+    "type": "candles",
+    "env": 0,
+    "contractCode": "ethusdt"
+}

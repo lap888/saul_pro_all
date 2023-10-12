@@ -1,0 +1,16 @@
+{
+  "name": "q-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-futures-connector": "^1.1.5",
+    "node-localstorage": "^2.2.1"
+  }
+}

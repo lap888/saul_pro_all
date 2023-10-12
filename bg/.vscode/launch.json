@@ -1,0 +1,99 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "core",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/core.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "bgApi",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/bgApi.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "binance",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/binance.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "v1",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/v1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "v2",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/v2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "bg-yyds",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/bg-yyds.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "bg-yyds-mm",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/bg-yyds-mm.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "t",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/t2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "bg-yyds-mmm-api",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/bg-yyds-mmm-api.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "bg-yyds-zl-m",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/zl/bg-yyds-zl-m.js"
+        }
+        
+    ]
+}

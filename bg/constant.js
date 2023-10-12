@@ -1,0 +1,22 @@
+const ExKey = [
+    {
+        id: 1,
+        name: 'TT',
+        apiKey: '5eac67344e8f4b5ab7238d461928116c',
+        secretKey: '859F1BBBDD9799AC3A144ACA96CFC5C5',
+        passphrase: 'toptoptop',
+        BTCUSDT: 10,
+        ETHUSDT: 10,
+        // NEOUSDT: 1,
+        // LTCUSDT: 1,
+        // XRPUSDT: 1,
+        isDo: true,
+        pos: 'a|u',
+        rToken: 'eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJob3Rjb2luIiwidWlkIjoiZWF0TXNSS2Q4QlJlRUJUSE1JUDVvZz09Iiwic291cmNlIjoiTlVqaUVWREJLRndnVVY4K3dQT1FLQT09IiwiaWF0IjoxNjc3NDYwODcxLCJqdGkiOiIxNmZkYTUzMi1mODhhLTRjOGQtODQ3OS00ZmZmNTI3Njg5OWUiLCJpcCI6IllCay9tNDE2cVFySlQxZE4yckRYUXc9PSJ9.Fl4z5xcUhZ4kk2Jbu7woSEMpOOQM3PDX7fnfDzfVDVI$eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlODBmYzk0NC1hNzhhLTRmZTAtOWQzNi1lYjJkY2EzNDE1MzAxODg0MzAyMzY5IiwidWlkIjoiZWF0TXNSS2Q4QlJlRUJUSE1JUDVvZz09IiwiaXAiOiJRRkZlaENhV0JXSnJRZ2VKK0crZlVBPT0iLCJkZXYiOiJBOG9MTmVSVnZGR294TDlQWmVoa3BBPT0iLCJzdHMiOjAsImlhdCI6MTY3NzQ2MDg3MSwiZXhwIjoxNjc4MDY1NjcxLCJpc3MiOiJuZXdleCJ9.IkM1IbRPVS_f5hZ6PzwskW5SNxWZOHtF3NE8MHFLA4E',
+        btSession: 'bt_sessonid=4197b00f-96b1-40bb-a006-9176f76eb751;',
+        btNewSession: 'bt_newsessionid=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlYzdjOTBmNy0xMzk4LTRkNGYtOTYyNC05NzI2ZGExMmFkMDUxMTcxMTAyNTIyIiwidWlkIjoiNFY0VktWU0IzRnRtWTVaejFHQWcyUT09Iiwic3ViIjoiMjA0MzY5KioqKkBxcS5jb20iLCJpcCI6IlByblptUmFSampTVGNKMDFPVndyU0E9PSIsImRpZCI6Im5HNU04TmhvT21yaFpEKzJXODVaWjNkbXRSb1FSd1BDK1YxRit1Q1FYeEYxMlJJc1pRS001SEJrUzR5VFJoblciLCJzdHMiOjAsImlhdCI6MTY3MzA4MDkyNCwiZXhwIjoxNjgwODU2OTI0LCJwdXNoaWQiOiJkZGtTTEdVQ2pPUndaRXVNazBZWjFnPT0iLCJpc3MiOiJ1cGV4In0.IJ5rxrZalhgbhOMtaHRZHVCBSifAtFbZAuOe6-e1y0Y;'
+    }
+]
+module.exports = {
+    ExKey
+}

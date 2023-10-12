@@ -1,0 +1,50 @@
+{
+    "env": "prod",
+    "isRestart": false,
+    "apiKey": "",
+    "apiSecret": "",
+    "teleBotToken": "5039617435:AAG9lgyAM-t7LwI-TfVS39pk31W6XlUrz9w",
+    "proxyIp": "127.0.0.1",
+    "proxy": 1087,
+    "listenPort": 30019,
+    "chat_id": [
+        -1001784840574
+    ],
+    "bCoins": [
+        {
+            "key":1,
+            "id":1,
+            "type": "hy",
+            "orderRate": 0.06,
+            "fOrderRate": 0.5,
+            "posPrice": 1,
+            "posPrice2": 1,
+            "lCount":0,
+            "sCount":0,
+            "lCount1":0,
+            "sCount1":0,
+            "userId": 1001,
+            "coin": "ETHUSDT",
+            "status": 0,
+            "lever": 50,
+            "margin": 1,
+            "minAmount": 20,
+            "indicator": [
+                "1h&SAR|0.02|0.2"
+            ],
+            "orderType": "limit",
+            "isNowDo":false,
+            "startNowDo":false,
+            "stopPft": 1,
+            "sellRate":50,
+            "stopPftBack": 1,
+            "stopLoss": 1,
+            "stopLossRate": 50,
+            "startTime": 0,
+            "endTime": 24,
+            "onPftData1": 0,
+            "onPftData2": 0,
+            "cancelTime":10
+        }
+    ]
+}

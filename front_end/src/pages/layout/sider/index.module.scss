@@ -1,0 +1,23 @@
+// aside
+// logo部分
+.logo {
+  height: 64px;
+  text-align: center;
+  line-height: 64px;
+  font-size: 30px;
+  font-style: italic;
+  // color: rgba(175, 147, 147, 0.85);
+  // background-color: #002140;
+  cursor: pointer;
+  background-image: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+// light
+:global(.ant-layout-sider-light) {
+  .logo {
+    background-color: rgba(0, 0, 0, 0.025);
+  }
+}

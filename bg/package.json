@@ -1,0 +1,24 @@
+{
+  "name": "bg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-futures-connector": "^1.4.2",
+    "bitget-openapi": "^2.0.8",
+    "bitget-openapi-top": "^1.0.1",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "https-proxy-agent": "^5.0.1",
+    "url": "^0.11.0",
+    "ws": "^8.12.1"
+  }
+}

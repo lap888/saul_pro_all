@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "ctMult": "1",
+            "ctType": "linear",
+            "ctValCcy": "CHZ",
+            "lotSz": "1",
+            "minSz": "1",
+            "quoteCcy": "",
+            "settleCcy": "USDT",
+            "stk": "",
+            "uly": "CHZ-USDT",
+            "expTime": "",
+            "instType": "SWAP",
+            "ctVal": "10",
+            "lever": "75",
+            "tickSz": "0.00001",
+            "alias": "",
+            "baseCcy": "",
+            "category": "2",
+            "instId": "CHZ-USDT-SWAP",
+            "listTime": "1615542950000",
+            "optType": "",
+            "state": "live"
+        }
+    ],
+    "msg": "",
+    "code": "0"
+}

@@ -1,0 +1,50 @@
+{
+    "Info": {
+        "data": [
+            {
+                "imr": "",
+                "isoEq": "0",
+                "ordFroz": "",
+                "totalEq": "1009.5913329406303",
+                "uTime": "1639642798051",
+                "adjEq": "",
+                "details": [
+                    {
+                        "crossLiab": "",
+                        "eq": "1009.167482597939",
+                        "isoUpl": "0",
+                        "mgnRatio": "100.88384166301509",
+                        "uTime": "1639641667116",
+                        "uplLiab": "",
+                        "frozenBal": "52.149776101890005",
+                        "interest": "",
+                        "isoEq": "0",
+                        "isoLiab": "",
+                        "upl": "-14.522977958799986",
+                        "cashBal": "1023.690460556739",
+                        "ccy": "USDT",
+                        "eqUsd": "1009.5913329406303",
+                        "liab": "",
+                        "twap": "0",
+                        "ordFrozen": "0",
+                        "stgyEq": "0",
+                        "availBal": "",
+                        "availEq": "957.0177064960491",
+                        "disEq": "1009.5913329406303",
+                        "maxLoan": "",
+                        "notionalLever": "1.0335207386516025"
+                    }
+                ],
+                "mgnRatio": "",
+                "mmr": "",
+                "notionalUsd": ""
+            }
+        ],
+        "msg": "",
+        "code": "0"
+    },
+    "Stocks": 0,
+    "FrozenStocks": 0,
+    "Balance": 957.0177064960491,
+    "FrozenBalance": 0
+}

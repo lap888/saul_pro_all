@@ -1,0 +1,18 @@
+{
+  "name": "ksex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-futures-connector": "^1.4.6",
+    "bybit-api": "^3.7.1",
+    "node-schedule": "^2.1.1",
+    "okx-api": "^1.1.2"
+  }
+}
